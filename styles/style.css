@@ -55,7 +55,7 @@ video {
     font-size: 35px;
     font-family: "Raleway", sans-serif;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 800;
     line-height: 35px;
     box-shadow: 0px 14px #000;
     width: 742px;
@@ -63,12 +63,6 @@ video {
     border: 2px solid #000000;
     border-radius: 20px;
     background-color: #ffffff;
-    color: #000;
-    font-size: 35px;
-    font-family: "Raleway", sans-serif;
-    font-style: normal;
-    font-weight: 800;
-    line-height: 35px;
     text-transform: none;
     letter-spacing: 0px;
     text-align: start;
