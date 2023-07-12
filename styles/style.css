@@ -80,8 +80,7 @@ body:before {
     text-transform: none;
     letter-spacing: 0px;
     text-align: start;
-    padding-top: 36px;
-    padding-left: 45px;
+    padding: 36px 44px;
     position: absolute;
     top: 181px;
     right: 25px;
